@@ -1,0 +1,5 @@
+#Tue Mar 04 01:54:35 CET 2008
+eclipse.preferences.version=1
+org.eclipse.php.core.contextRoot=
+org.eclipse.php.core.defaultEncoding=
+org.eclipse.php.core.includePath=<?xml version\="1.0" encoding\="UTF-8"?>\n<includepath>\n\t<includepathentry createdReference\="true" resource\="typo3_src-4.1.6" path\="/typo3_src-4.1.6" contentKind\="source" kind\="prj">\n</includepathentry>\n</includepath>\n

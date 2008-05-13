@@ -1,0 +1,9 @@
+(add new changes on top of this file)
+XX-XX-XX Frank Nägler  <typo3@naegler.net>
+	* Bugfix: class.tx_fnlib_base.php->generateLanguageMarker | wrong encodings
+	* NEW: class.tx_fnlib_twitter.php->enableNotification()
+	* NEW: class.tx_fnlib_twitter.php->disableNotification()
+	* NEW: class.tx_fnlib_twitpic.php
+
+07-12-26 Frank Nägler  <typo3@naegler.net>
+	* Initial release
