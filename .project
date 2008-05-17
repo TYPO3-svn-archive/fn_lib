@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>tx_fn_lib</name>
+	<name>fn_lib</name>
 	<comment></comment>
 	<projects>
 		<project>typo3_src-4.1.6</project>
+		<project>typo3_src-4.2.0</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
